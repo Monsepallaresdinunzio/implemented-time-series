@@ -22,3 +22,4 @@ von Ellenrieder, N., Gotman, J., Zelmann, R., Rogers, C., Nguyen, D. K., Kahane,
 # Time series from simulations of different stocks:
 
 Time series of simulations performed with the FS-RS neuronal population are attached. The simulation was carried out over a period of 60,000 milliseconds, recording the temporal evolution of the membrane potential of each neuron in the network. From these recordings, a global variable called LFP (Local Field Potential) was constructed, designed to emulate membrane potential measurements obtained from intracranial EEG (iEEG) recordings. This variable was calculated as the sum of the membrane potentials of all neurons in the network at each time instant. The time series are available in the repository in the file named “RS-FS.mat”.
+To implement the time series analysis, it is necessary to first download all the files and extract their contents.
